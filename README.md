@@ -10,7 +10,7 @@
 
 ### Education
 - <sub>**이화여자대학교** 초등교육 전공 · 컴퓨터공학 복수전공 (2023.03 ~)</sub>
-- <sub>**University of Central Lancashire (UK)** 교환학생 · Education Course (2025.08 ~ 2026.01)</sub>
+- <sub>**University of Central Lancashire (UK)** 교환학생 · Marketing Course (2025.08 ~ 2026.01)</sub>
 
 ### Experience
 - <sub>**ITISME 2기** BE · IT 동아리 (2025.03 ~ 2025.08)</sub>
